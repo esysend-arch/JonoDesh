@@ -1,0 +1,8 @@
+{
+  "name": "JonoDesh",
+  "description": "JonoDesh - সারা বাংলাদেশের ৮ বিভাগ ও ৬৪ জেলার শীর্ষ স্বাধীন সংবাদপত্র ও নাগরিক প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
